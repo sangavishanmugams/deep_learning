@@ -1,0 +1,12 @@
+torch>=1.11.0
+torchdiffeq
+numpy
+scipy
+pandas
+matplotlib
+statsmodels
+scikit-learn
+seaborn
+
+# Optional (GPU acceleration)
+# Install the appropriate CUDA build of PyTorch for your GPU

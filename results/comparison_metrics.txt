@@ -1,0 +1,13 @@
+Baseline vs Neural ODE Comparison
+============================================================
+LSTM Baseline:
+  RMSE: 0.4222566326641297
+  MAE: 0.3413996994495392
+
+Neural ODE:
+  RMSE: 0.39220433446005354
+  MAE: 0.3104901611804962
+
+Improvement:
+  RMSE improvement: 7.12%
+  MAE improvement: 9.05%

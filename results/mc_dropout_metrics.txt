@@ -1,0 +1,7 @@
+MC Dropout Uncertainty Metrics
+MC Samples: 50
+Z-score: 1.96
+Prediction Interval Coverage: 0.6067
+Mean epistemic std: 0.1694
+Max epistemic std: 0.2680
+Min epistemic std: 0.0838
